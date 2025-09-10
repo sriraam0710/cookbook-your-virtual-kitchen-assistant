@@ -1,1 +1,0 @@
-# cookbook-your-virtual-kitchen-assistant
